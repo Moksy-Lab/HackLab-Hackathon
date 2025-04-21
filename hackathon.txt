@@ -1,0 +1,109 @@
+nixed
+hunch
+About the Hackathon = x
+Who Can Participate = x
+Challenges / Problem Statements = x 
+ryvan
+steve
+Judging Criteria = x
+Prizes and Awards = x
+tristan
+Tech Tools & Resources = x
+Past Hackathon Highlights (Optional) = x
+canon
+ronan
+Rules & Code of Conduct = x
+feats
+Community / Slack / Discord Invite = x
+Virtual Venue / Platform Details (if online) = x
+Volunteer / Mentor Sign-Up (Optional) = x
+sophie
+solva
+cedra
+celyx
+ford
+
+
+
+
+
+Hackathon – A competitive, project-based event where participants create solutions in a short period.
+1. Navbar
+Logo, anchor links (About, Challenges, Prizes, Register), and a clear CTA button like “Join the Hackathon”.
+
+2. Hero Section
+Exciting headline (e.g., “Build. Innovate. Win.”) with event dates, location (physical or virtual), and a CTA button (“Register Now”).
+
+3. About the Hackathon
+Short intro explaining the purpose, theme, and spirit of the hackathon.
+
+4. Who Can Participate
+Eligibility criteria (e.g., students, professionals, startups) and team size requirements.
+
+5. Challenges / Problem Statements
+List the problems or themes participants will be solving, possibly by tracks (e.g., AI, ClimateTech, FinTech).
+
+6. Schedule / Timeline
+Detailed event schedule, including:
+
+Kickoff
+
+Hacking period
+
+Submission deadlines
+
+Judging & awards ceremony
+
+7. How It Works
+Step-by-step flow: Register → Form Teams → Build Solutions → Submit → Win.
+ 
+8. Judging Criteria
+Explain how submissions will be evaluated (e.g., innovation, usability, technical complexity, presentation).
+
+9. Prizes and Awards
+Showcase prize money, internships, gadgets, certificates, or opportunities for winners.
+
+10. Mentors & Judges
+Photos, short bios, and expertise of mentors and judging panel members.
+
+11. Tech Tools & Resources
+List technologies, APIs, or platforms participants can (or must) use during the hackathon.
+
+12. Past Hackathon Highlights (Optional)
+Photos, videos, or stories from previous hackathons to inspire excitement.
+
+13. Sponsorship / Partners
+Display logos of sponsors, tech partners, university partners, or corporate supporters.
+
+14. Registration Form
+Collect participant information (name, email, team name, category) with a “Join Now” button.
+
+15. Rules & Code of Conduct
+Set expectations for fair play, team formation, submission guidelines, and ethical standards.
+
+16. Frequently Asked Questions (FAQs)
+Answer common questions about participation, team size, deadlines, platform access, etc.
+
+17. Community / Slack / Discord Invite
+Invite participants to join a communication channel to network, find teammates, and get updates.
+
+18. Virtual Venue / Platform Details (if online)
+Explain how participants will access workshops, submit projects, and present demos virtually.
+
+19. Volunteer / Mentor Sign-Up (Optional)
+Form for those who want to help mentor, judge, or organise the event.
+
+20. Social Sharing Buttons
+Encourage attendees to share the hackathon on LinkedIn, Twitter, Instagram to increase buzz.
+
+21. Newsletter / Updates Sign-Up
+Allow users to sign up for event reminders, news, and sponsor promotions.
+
+22. Countdown Timer
+Show urgency with a live countdown to the hackathon kickoff.
+
+23. Final Call to Action
+Bold CTA (e.g., “Ready to Code the Future? Join Now!”) before the footer.
+
+24. Footer
+Basic footer with logo, quick links, social media icons, contact details, and legal pages (Privacy Policy, Terms).
